@@ -1,0 +1,35 @@
+# translation by @彼梦Archi DreamZ
+
+commands.coralmod.usage=/coralmod [biomes|regen|settings|SETTING|toggle <SETTING>]
+
+coralmod.key.gui=珊瑚礁 GUI
+
+coralmod.settings.title=珊瑚礁
+coralmod.settings.enabled=启用
+coralmod.settings.disabled=禁用
+coralmod.settings.options=选项
+
+coralmod.settings.coralgen=珊瑚礁生成设置
+coralmod.settings.spikyenabled=刺状珊瑚
+coralmod.settings.enablebubbles=气泡
+coralmod.settings.enablegrow=是否会成长
+coralmod.settings.avgsize=平均尺寸
+coralmod.settings.oceanonly=仅限海洋群系
+coralmod.settings.alldimensions=所有群系
+coralmod.settings.light=Light
+coralmod.settings.air=Air
+coralmod.settings.debug=Debug
+
+coralmod.settings.avgsize.small=小
+coralmod.settings.avgsize.normal=中
+coralmod.settings.avgsize.big=大
+coralmod.settings.avgsize.custom=自定义 (未实现的)
+
+tile.coralmod.Coral1.orange.name=橙色珊瑚
+tile.coralmod.Coral1.green.name=绿色珊瑚
+tile.coralmod.Coral1.purple.name=紫色珊瑚
+tile.coralmod.Coral1.spiky.name=刺状珊瑚
+tile.coralmod.Coral2.name=海洋珊瑚
+tile.coralmod.Coral3.name=干珊瑚
+tile.coralmod.Coral4.pink.name=粉色珊瑚
+tile.coralmod.CoralLightt.name=Light Coral

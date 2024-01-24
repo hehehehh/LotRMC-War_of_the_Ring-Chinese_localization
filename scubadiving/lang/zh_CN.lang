@@ -1,0 +1,7 @@
+# translation by @彼梦Archi DreamZ
+
+scubadiving.container.aircompressor=空气压缩机
+tile.scubadiving.AirCompressor.name=空气压缩机
+item.scubadiving.ScubaHelmet.name=潜水帽
+item.scubadiving.ScubaTank.name=潜水罐
+item.scubadiving.ScubaTankEmpty.name=潜水罐 (空)
