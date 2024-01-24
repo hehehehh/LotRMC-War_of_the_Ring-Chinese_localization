@@ -1,0 +1,84 @@
+tile.cargon_border.name=Cargon - Border
+tile.cargon_border_stairs.name=Cargon - Border
+tile.cargon_border_wall.name=Cargon - Border
+tile.cargon_borderSlabSingle.0.name=Cargon - Border
+tile.cargon_brickaligned.name=Cargon - Large Brick
+tile.cargon_brickaligned_stairs.name=Cargon - Large Brick
+tile.cargon_brickaligned_wall.name=Cargon - Large Brick
+tile.cargon_brickalignedSlabSingle.0.name=Cargon - Large Brick
+tile.cargon_creeper.name=Cargon - Creeper
+tile.cargon_creeper_stairs.name=Cargon - Creeper
+tile.cargon_creeper_wall.name=Cargon - Creeper
+tile.cargon_creeperSlabSingle.0.name=Cargon - Creeper
+tile.cargon_dent.name=Cargon - Dent
+tile.cargon_dent_stairs.name=Cargon - Dent
+tile.cargon_dent_wall.name=Cargon - Dent
+tile.cargon_dentSlabSingle.0.name=Cargon - Dent
+tile.cargon_emboss.name=Cargon - Emboss
+tile.cargon_emboss_stairs.name=Cargon - Emboss
+tile.cargon_emboss_wall.name=Cargon - Emboss
+tile.cargon_embossSlabSingle.0.name=Cargon - Emboss
+tile.cargon_french.name=Cargon - French
+tile.cargon_french_stairs.name=Cargon - French
+tile.cargon_french_wall.name=Cargon - French
+tile.cargon_frenchSlabSingle.0.name=Cargon - French
+tile.cargon_french2.name=Cargon - French Cobb
+tile.cargon_french2_stairs.name=Cargon - French Cobb
+tile.cargon_french2_wall.name=Cargon - French Cobb
+tile.cargon_french2SlabSingle.0.name=Cargon -French Cobb
+tile.cargon_largebrick.name=Cargon - Detailed Brick
+tile.cargon_largebrick_stairs.name=Cargon - Detailed Brick
+tile.cargon_largebrick_wall.name=Cargon - Detailed Brick
+tile.cargon_largebrickSlabSingle.0.name=Cargon - Detailed Brick
+tile.cargon_marker.name=Cargon - Marker
+tile.cargon_marker_stairs.name=Cargon - Marker
+tile.cargon_marker_wall.name=Cargon - Marker
+tile.cargon_markerSlabSingle.0.name=Cargon - Marker
+tile.cargon_smallbrick.name=Cargon - Small Brick
+tile.cargon_smallbrick_stairs.name=Cargon - Small Brick
+tile.cargon_smallbrick_wall.name=Cargon - Small Brick
+tile.cargon_smallbrickSlabSingle.0.name=Cargon - Small Brick
+tile.cargon_smalldungeon.name=Cargon - Smooth Creeper
+tile.cargon_smalldungeon_stairs.name=Cargon - Smooth Creeper
+tile.cargon_smalldungeon_wall.name=Cargon - Smooth Creeper
+tile.cargon_smalldungeonSlabSingle.0.name=Cargon - Smooth Creeper
+tile.cargon_smalltile.name=Cargon - Broken Tiles
+tile.cargon_smalltile_stairs.name=Cargon - Broken Tiles
+tile.cargon_smalltile_wall.name=Cargon - Broken Tiles
+tile.cargon_smalltileSlabSingle.0.name=Cargon - Broken Tiles
+tile.cargon_smooth.name=Cargon - Smooth Brick
+tile.cargon_smooth_stairs.name=Cargon - Smooth Brick
+tile.cargon_smooth_wall.name=Cargon - Smooth Brick
+tile.cargon_smoothSlabSingle.0.name=Cargon - Smooth Brick
+tile.cargon_square.name=Cargon - Square
+tile.cargon_square_stairs.name=Cargon - Square
+tile.cargon_square_wall.name=Cargon - Square
+tile.cargon_squareSlabSingle.0.name=Cargon - Square
+tile.cargon_tiles.name=Cargon - Tiles
+tile.cargon_tiles_stairs.name=Cargon - Tiles
+tile.cargon_tiles_wall.name=Cargon - Tiles
+tile.cargon_tilesSlabSingle.0.name=Cargon - Tiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

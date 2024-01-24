@@ -1,0 +1,18 @@
+gui.lockpicking1=Lockpicking
+gui.lockpicking2=Great!
+gui.lockpicking3=Press 'Enter' to open.
+gui.lockpicking4=To open the lock all pins must be pulled up in the right order.
+gui.lockpicking5=The lockpick has a chance to break when the wrong pin is pulled.
+gui.lockpicking6=To move the lockpick and pull pins use 'A', 'D' and 'W' or the arrow keys.
+
+item.ItemLockpick.name=Lockpick
+item.ItemMasterKey.name=Master Key
+item.ItemLockableDoorEasy.name=Easy Lock Door
+item.ItemLockableDoorNormal.name=Normal Lock Door
+item.ItemLockableDoorHard.name=Hard Lock Door
+
+tile.BlockLockableChestEasy.name=Easy Lock Chest
+tile.BlockLockableChestNormal.name=Normal Lock Chest
+tile.BlockLockableChestHard.name=Hard Lock Chest
+
+itemGroup.tabLocks=Locks
