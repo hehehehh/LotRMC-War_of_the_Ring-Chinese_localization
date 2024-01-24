@@ -15,17 +15,17 @@
 
 下面是其他7个模组的相关链接：
 
->coralmod 珊瑚模组 无链接 （已汉化）
+>coralmod 珊瑚模组 无链接 （彼梦汉化）
 >
->legendarium 中洲传奇物品 [Legendary_Item-汉化仓库](https://github.com/ArchiDreamZ/Legendary_Item-Chinese_localization) （已汉化）
+>legendarium 中洲传奇物品 [Legendary_Item-汉化仓库](https://github.com/ArchiDreamZ/Legendary_Item-Chinese_localization) （彼梦汉化）
 >
->locks 锁 [MC百科：锁Locks](https://www.mcmod.cn/class/1846.html) （已汉化）
+>locks 锁 [MC百科：锁Locks](https://www.mcmod.cn/class/1846.html) （彼梦汉化）
 >
->scuba diving 潜水 无链接 （已汉化）
+>scuba diving 潜水 无链接 （彼梦汉化）
 >
->signpost 路标 [MC百科：路标Signpost](https://www.mcmod.cn/class/1934.html) （已汉化）
+>signpost 路标 [MC百科：路标Signpost](https://www.mcmod.cn/class/1934.html) （自带汉化）
 >
->wizardry 巫术学 [Wizardry-1.7.10-彼梦修复与平衡版](https://github.com/ArchiDreamZ/Wizardry-1.7.10-Fixed_and_Balanced) （已汉化）
+>wizardry 巫术学 [Wizardry-1.7.10-彼梦修复与平衡版](https://github.com/ArchiDreamZ/Wizardry-1.7.10-Fixed_and_Balanced) （彼梦汉化）
 >
 >
 >yegamolchattels 伊加墨的财产 [MC百科：伊加墨的财产Ye Gamol Chattels](https://www.mcmod.cn/class/605.html)
