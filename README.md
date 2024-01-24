@@ -19,3 +19,4 @@
 >
 >yegamolchattels 伊加墨的财产 [MC百科：伊加墨的财产Ye Gamol Chattels](https://www.mcmod.cn/class/605.html)
 
+其中wotrmc是魔戒大战的本体，里面仅分为lang文件和speech对话文件。
