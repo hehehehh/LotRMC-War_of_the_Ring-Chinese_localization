@@ -1,0 +1,18 @@
+gui.lockpicking1=撬锁中
+gui.lockpicking2=Great!
+gui.lockpicking3=按 'Enter' 打开.
+gui.lockpicking4=要打开锁，必须按正确的顺序拉起所有销钉.
+gui.lockpicking5=当拉动错误的销钉时，开锁器有几率会断裂.
+gui.lockpicking6=要移动开锁器和拉动销钉，请使用“A”、“D”和“W”或箭头键.
+
+item.ItemLockpick.name=撬锁器
+item.ItemMasterKey.name=Master Key
+item.ItemLockableDoorEasy.name=简易上锁门
+item.ItemLockableDoorNormal.name=普通上锁门
+item.ItemLockableDoorHard.name=复杂上锁门
+
+tile.BlockLockableChestEasy.name=简易锁箱
+tile.BlockLockableChestNormal.name=普通锁箱
+tile.BlockLockableChestHard.name=复杂锁箱
+
+itemGroup.tabLocks=锁
