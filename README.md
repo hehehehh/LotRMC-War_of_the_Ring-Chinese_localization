@@ -9,7 +9,7 @@
 >
 >legendarium 中洲传奇物品 [Legendary_Item-汉化仓库](https://github.com/ArchiDreamZ/Legendary_Item-Chinese_localization) （已汉化）
 >
->locks 锁 [MC百科：锁Locks](https://www.mcmod.cn/class/1846.html)
+>locks 锁 [MC百科：锁Locks](https://www.mcmod.cn/class/1846.html) （已汉化）
 >
 >scuba diving 潜水 无链接
 >
